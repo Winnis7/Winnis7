@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Winnis7
+- 👋 Hi, I’m @WINNIS
 - 👀 I’m interested in iOS, Swift, UIKit, RxSwift, ReactorKit
 
 <!---
